@@ -7,3 +7,7 @@ was used. The angle between the points on the hand is adjusted to coincide with 
 communication between Arduino and computer is provided with Standard Firmata protocol.
 
 Project video:
+
+
+https://user-images.githubusercontent.com/91939151/144267242-0a681b4e-2985-4ef9-b8f4-c4614e71736f.mp4
+
