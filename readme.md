@@ -9,5 +9,7 @@ communication between Arduino and computer is provided with Standard Firmata pro
 Project video:
 
 
-https://user-images.githubusercontent.com/91939151/144267242-0a681b4e-2985-4ef9-b8f4-c4614e71736f.mp4
+
+
+https://user-images.githubusercontent.com/91939151/183413459-6ae38c9b-844f-4cd6-8241-d6f5b9408e31.mp4
 
